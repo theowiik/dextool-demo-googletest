@@ -1,3 +1,6 @@
+# Dextool
+*.sqlite3
+
 # Ignore CI build directory
 build/
 xcuserdata
